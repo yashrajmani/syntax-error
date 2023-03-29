@@ -1,20 +1,25 @@
 # TEAM - syntax-error 
 # Makeathon'23
 
-## Tank-E : SMART WATER MANAGEMENT SOLUTIONS
-
 <br />
 <div align="left">
-  <a href="https://github.com/originalsidd/hidden-web">
+  <a href="https://github.com/yashrajmani/syntax-error">
     <img src="https://github.com/yashrajmani/syntax-error/blob/main/App/water/assets/splash.png" alt="Logo" height="200">
   </a>
 
-  <h1 align="left" >TANK-E</h1>
+  <h1 align="left" >TANK-E : SMART WATER MANAGEMENT SOLUTIONS</h1>
 
 </div>
 
 <br>  
 
+
+
+
+# Prototype:
+  <a href="https://github.com/yashrajmani/syntax-error">
+    <img src="https://github.com/yashrajmani/syntax-error/blob/main/Tanke.png" alt="Prototype" height="500">
+  </a>
 
 # Solution Includes :
 - NO INTERNET REQUIRED
@@ -28,7 +33,7 @@
 
 <br>
 
-#Technologies Used:
+# Technologies Used:
 - Flutter –Cross Platform App Development
 - Arduino UNO
 - BATTERY / SOLAR
