@@ -1,5 +1,3 @@
-# TEAM - syntax-error 
-# Makeathon'23
 
 <br />
 <div align="left">
@@ -10,9 +8,6 @@
   <h1 align="left" >TANK-E : SMART WATER MANAGEMENT SOLUTIONS</h1>
 
 </div>
-
-
-## Presentation:  https://github.com/yashrajmani/syntax-error/blob/main/makeathon-ppt-syntax-error.pdf
 
 # Prototype:
   <a href="https://github.com/yashrajmani/syntax-error">
